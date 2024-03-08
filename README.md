@@ -1,1 +1,1 @@
-# Stanford_dog_classification_using-Imagenet
+# Stanford_dog_classification_using-InceptionNet
